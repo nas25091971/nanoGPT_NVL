@@ -1,3 +1,4 @@
+pip install torch numpy transformers datasets tiktoken wandb tqdm
 git clone https://github.com/karpathy/minGPT.git
 cd minGPT
 pip install -e .
