@@ -159,3 +159,5 @@ For more questions/discussions feel free to stop by #nanoGPT on Discord:
 
 acknowledgements
 All nanoGPT experiments are powered by GPUs on Lambda labs, my favorite Cloud GPU provider. Thank you Lambda labs for sponsoring nanoGPT!
+https://docs.github.com/ru/repositories/creating-and-managing-repositories/cloning-a-repository
+
